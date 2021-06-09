@@ -35,7 +35,7 @@
     </header>
   </div>
   
-  <!-- navigation -->
+  <!-- site navigation -->
   <div class="nav-scroller py-1 mb-2">
     <nav class="nav d-flex justify-content-evenly">
       <a class="p-2 link-secondary" href="index.html">Home</a>
@@ -44,41 +44,45 @@
       <a class="p-2 link-secondary" href="#">Software</a>
     </nav>
   </div>
-
-  <!-- <zero-md src="essays/03092018.md"></zero-md> -->
-  
-  <!-- essays -->
-  <div class="container">
-    <!-- 
-    <div class="p-4 p-md-5 mb-4 text-white bg-dark border rounded">
-      <div class="col-md-6 px-0">
-        <h1 class="display-4 fst-italic">What is Synthetic Intelligence?</h1>
-        <p class="lead my-3">Multiple lines of text that form the lede, informing new readers quickly and efficiently about what’s most interesting in this post’s contents.</p>
-        <p class="lead mb-0"><a href="essays/03092018.md" class="fw-bold">Continue reading...</a></p>   
-      </div>
-    </div>
-    -->
-
-    <!-- row 1 -->
-    <div class="row mb-2">
-      <!-- left column -->
-      <div class="col-md-6">
-        <div class="card flex-md-row mb-4 box-shadow h-md-250">
-
-        </div>
-      </div>
-      <!-- right column -->
-      <div class="col-md-6">
-        <div class="card flex-md-row mb-4 box-shadow h-md-250">
-
-        </div>
-      </div>
-    </div>
-  </div>
   
   <main class="container" role="main">
+    <!-- two recent essay cards -->
+    <div class="container">
+      <!-- row 1 -->
+      <div class="row mb-2">
+        <!-- left column -->
+        <div class="col-md-6">
+          <div class="card flex-md-row mb-4 box-shadow h-md-250">
+            <!-- text goes here -->
+          </div>
+        </div>
+        <!-- right column -->
+        <div class="col-md-6">
+          <div class="card flex-md-row mb-4 box-shadow h-md-250">
+            <!-- text goes here -->
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- main essays -->
+    <div class="row g-5">
+      <!-- essay content -->
+      <div class="col-md-8">
+        <h3 name= class="pb-4 mb-4 fst-italic border-bottom">Synthetic Intelligence</h3>
+        <article class="blog-post"> <zero-md src="essays/03092018.md"></zero-md> </article>
+      </div>
 
-  </main>
+      <!-- essay category selectors -->
+      <div class="col-md-4">
+        <div class="position-sticky" style="top: 2rem;">
+          <div class="p-4"> <h4> Categories </h4> </div>
+        </div>
+      </div>
+      
+    </div>
+
+</main>
 
 </body>
 </html>
