@@ -489,6 +489,11 @@ treeJSON = d3.json("/garden/garden.json", function(error, treeData) {
         nodeExit.select("text")
             .style("fill-opacity", 0);
 
+        node.select("circle.nodeCircle") 
+            .append("svg:title")
+            .text(function(d) { return d.note; })
+        
+
         // Update the links…
         var link = svgGroup.selectAll("path.link")
             .data(links, function(d) {

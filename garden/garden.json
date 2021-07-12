@@ -4,7 +4,10 @@
         "name": "honeypots",
         "children": [{
             "name": "detecting",
-            "size": 3938
+            "children": [
+                {"name": "07122021.1600", "note": "This is a test", "size": 3938},
+                {"name": "07122021.1601", "note": "This is a test", "size": 3812}
+            ]
         }, {
             "name": "sojourn time",
             "size": 3812
