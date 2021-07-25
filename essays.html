@@ -16,6 +16,7 @@
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"></script>
 
+  <!-- styles -->
   <style>
     html {
       scroll-behavior: smooth;
@@ -25,8 +26,18 @@
       background-color: whitesmoke !important;
       opacity: .95 !important;
     }
-
   </style>
+
+  <!-- site tag -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-NY9GRFECER"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-NY9GRFECER');
+  </script>
 
   <title>Jason M. Pittman</title>
 </head>
@@ -78,6 +89,41 @@
       <!-- essay content -->
       <div class="col-md-8">
         
+        <h2 id="ai" class="pb-4 mb-4 fst-italic border-bottom">Artificial Intelligence</h2>
+        <!-- begin essay -->
+        <p> 
+          <b>January 22, 2019, Machine learning algorithm overview</b>
+          <article>Recently, we looked at decision trees as a basic form of machine learning. As this series continues, I will walk you through a simple decision tree programming example. I also want to show you some math.</article>
+          <br>
+
+        <button type="button" class="btn btn-secondary btn-sm" data-bs-toggle="modal" data-bs-target="#modal01222019">
+          read more
+        </button>
+
+        <button type="button" class="btn btn-secondary btn-sm" onclick="window.location = 'essays/01222019.md'">
+          download
+        </button>
+
+        <div id="modal01222019" class="modal" tabindex="-1">
+          <div class="modal-dialog modal-dialog-scrollable">
+            <div class="modal=content">
+              <div class="modal-header">
+                <h5 class="modal-title">My Essay</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                <zero-md src="essays/01222019.md"></zero-md>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <br><br>
+        <!-- end essay -->
+
         <h2 id="synthetic" class="pb-4 mb-4 fst-italic border-bottom">Synthetic Intelligence</h2>
         <!-- begin essay -->
         <p> 
@@ -659,8 +705,44 @@
 
         <h2 id="compsci" class="pb-4 mb-4 fst-italic border-bottom">Computer Science</h2>
 
-        <h2 id="compsci" class="pb-4 mb-4 fst-italic border-bottom">Cybersecurity</h2>
+        <h2 id="cyber" class="pb-4 mb-4 fst-italic border-bottom">Cybersecurity</h2>
         
+        <h2 id="discrete" class="pb-4 mb-4 fst-italic border-bottom">Discrete Math</h2>
+
+        <!-- begin essay -->
+        <p> 
+          <b>January 2nd, 2018 Magic squares</b>
+          <article>We're going to explore a strange but (I think) fun oddity in discrete math called a magic square. These guys show up in all kinds of places and have a tangential relationship to the popular game Sudoku and the original strategy game, chess</article>
+          <br>
+
+        <button type="button" class="btn btn-secondary btn-sm" data-bs-toggle="modal" data-bs-target="#modal01022018">
+          read more
+        </button>
+        
+        <button type="button" class="btn btn-secondary btn-sm" onclick="window.location = 'essays/01022018.md'">
+          download
+        </button>
+        
+        <div id="modal01022018" class="modal" tabindex="-1">
+          <div class="modal-dialog modal-dialog-scrollable">
+            <div class="modal=content">
+              <div class="modal-header">
+                <h5 class="modal-title">My Essay</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                <zero-md src="essays/01022018.md"></zero-md>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <br><br>
+        <!-- end essay -->
+
       </div>
 
       <!-- essay category menu -->
@@ -670,9 +752,11 @@
             <h4> Categories </h4>
             <nav class="nav flex-column">
               <li class="nav-item"><a class="text-dark" href="#">Home</a></li>
+              <li class="nav-item"><a class="text-dark" href="#ai">Artificial Intelligence</a></li>
               <li class="nav-item"><a class="text-dark" href="#synthetic">Synthetic Intelligence</a></li>
               <li class="nav-item"><a class="text-dark" href="#compsci">Computer Science</a></li>
               <li class="nav-item"><a class="text-dark" href="#cyber">Cybersecurity</a></li>
+              <li class="nav-item"><a class="text-dark" href="#discrete">Discrete Math</a></li>
             </nav>
           </div>
         </div>
