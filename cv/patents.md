@@ -1,0 +1,1 @@
+Pittman, J. (2016). A system, device, and method for indicating authentication decisions in uniquely identifiable computing devices. Patent No. WO2016181347
