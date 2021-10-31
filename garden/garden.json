@@ -1,22 +1,43 @@
 {
-    "name": "research",
-    "children": [{
-        "name": "honeypots",
-        "children": [{
-            "name": "detecting",
-            "children": [
-                {"name": "07122021.1600", "note": "This is a test", "size": 3938},
-                {"name": "07122021.1601", "note": "This is a test", "size": 3812}
-            ]
-        }, {
-            "name": "sojourn time",
-            "size": 3812
+    "name": "garden",
+    "children": 
+    [{
+        "name": "research",
+        "children": 
+        [{
+            "name": "honeypots",
+            "children": [{
+                "name": "detecting",
+                "children": 
+                [
+                    {"name": "07122021.1600", "note": "This is a test"}, 
+                    {"name": "07122021.1601", "note": "This is a test \n A second line"}
+                ]
+            }, {
+                "name": "sojourn time"
+            }]
+            }, {    
+            "name": "port knocking",
+            "children": 
+            [{
+                "name": "detecting"
+            }]
+        }]  
+    },  {
+        "name": "technology",
+        "children": 
+        [{
+            "name": "cloud"
         }]
-        }, {    
-        "name": "port knocking",
-        "children": [{
-            "name": "detecting",
-            "size": 3534
+    },  {
+        "name": "teaching",
+        "children":
+        [{
+            "name": "spacing",
+            "children": 
+            [
+                {"name": "080820211608", "note": "Spacing is the ongoing periodicty of input \n and output."}
+            ]
         }]
     }]
 }
