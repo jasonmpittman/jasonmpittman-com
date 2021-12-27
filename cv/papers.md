@@ -1,4 +1,4 @@
-Pittman, J. (2021). Bias in Cognitive Engineering for Human-Machine Teaming Literature. AJSE, 3(2), 1-8. doi:doi.org/10.15864/ajse.2301
+Pittman, J. (2021). Bias in Cognitive Engineering for Human-Machine Teaming Literature. AJSE, 3(2), 1-8. doi:https://doi.org/10.15864/ajse.2301
 
 Pittman, J. (2021). Welcome the CELF: A Cutting Edge Learning Environment. The Lighted Lamp, Fall 2021.
 
