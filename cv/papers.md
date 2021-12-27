@@ -1,3 +1,5 @@
+Pittman, J. (2021). Bias in Cognitive Engineering for Human-Machine Teaming Literature. AJSE, 3(2), 1-8. doi:doi.org/10.15864/ajse.2301
+
 Pittman, J. (2021). Welcome the CELF: A Cutting Edge Learning Environment. The Lighted Lamp, Fall 2021.
 
 Williams, L., Titus, Kimberly J., & Pittman, J. (2021). How Early is Early Enough: Correlating Student Performance with Final Grades. In Computing Education Practice 2021 (CEP ’21). Association for Computing Machinery, New York, NY, USA, 13–16. doi:https://doi.org/10.1145/3437914.3437972
