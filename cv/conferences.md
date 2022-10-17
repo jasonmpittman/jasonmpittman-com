@@ -1,3 +1,5 @@
+Pittman, J. (2022). Knock Knock, Who is There? A New Type of Port Knocking. BSidesRDU 2022.
+
 Pittman, J. (2021). Seeing Through the Deception: A Model for Detecting High Interaction Honeypots. BSidesRDU 2021.
 
 Beal, T., Hanks, A., Haramis, C, Riccardelli, J., & Pittman, J. (2020, November). Reproducing Honeypot Detection Through Network Characteristics. ACM Mid Southest Fall 2020, Gatlinburg, TN. *[1st place student competition].
