@@ -1,4 +1,8 @@
+Pittman, J., Barker, H., & Alaee, S. (2022). Structure or Anarchy: A Bibliometric Analysis of Keywords in Cybersecurity Education Literature. [26th CISSE, November 2022](https://cisse.info/e/26th/academic-papers)
+
 Pittman, J. (2022). Knock Knock, Who is There? A New Type of Port Knocking. BSidesRDU 2022.
+
+Pittman, J., Kobbe, R., Lynch, T., & Barker, H. (2021). Cybersecurity Laboratory Education Research: A Lush Ecosystem or Elephant Graveyard. 25th CISSE, October 4-6 2021. 
 
 Pittman, J. (2021). Seeing Through the Deception: A Model for Detecting High Interaction Honeypots. BSidesRDU 2021.
 
