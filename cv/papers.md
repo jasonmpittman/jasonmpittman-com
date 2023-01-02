@@ -2,6 +2,8 @@ Alaee, S., Pittman, J. M. (2022). Behavior Algorithm - A Novel TIme-Series Clust
 
 Pittman, J. M., Alaee, S., Crosby, C., Honey, T., & Schaefer, G. M. (2022). Towards a Model for Zero Trust Data. AJSE, 3(1). doi:https://doi.org/10.15864/ajse.3103
 
+Pittman, J., Kobbe, R., Lynch, T., & Barker, H. (2022). Cybersecurity Laboratory Education Research: A Lush Ecosystem or Elephant Graveyard. Journal of The Colloquium for Information Systems Security Education 9 (1), 6-6. doi:https://doi.org/10.53735/cisse.v9i1.139
+
 Pittman, J. (2021). Bias in Cognitive Engineering for Human-Machine Teaming Literature. AJSE, 2(3). doi:https://doi.org/10.15864/ajse.2301
 
 Pittman, J. (2021). Welcome the CELF: A Cutting Edge Learning Environment. The Lighted Lamp, Fall 2021.
