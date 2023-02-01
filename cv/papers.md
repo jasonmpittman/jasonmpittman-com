@@ -1,3 +1,5 @@
+Pittman, J. M. (2023). Machine Learning and Port Scans: A Systematic Review. arXiv:2301.13581 [cs.CR]
+
 Alaee, S., Pittman, J. M. (2022). Behavior Algorithm - A Novel TIme-Series Clustering Approach. AJSE, 3(2). doi.org/10.15864/ajse.3202
 
 Pittman, J. M., Alaee, S., Crosby, C., Honey, T., & Schaefer, G. M. (2022). Towards a Model for Zero Trust Data. AJSE, 3(1). doi:https://doi.org/10.15864/ajse.3103
