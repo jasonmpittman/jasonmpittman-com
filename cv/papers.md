@@ -1,3 +1,5 @@
+Pittman, J. M. (2023). Reproducing Random Forest Efficacy in Detecting Port Scanning. arXiv:2302.09317 [cs.CR]
+
 Pittman, J. M. (2023). Machine Learning and Port Scans: A Systematic Review. arXiv:2301.13581 [cs.CR]
 
 Alaee, S., Pittman, J. M. (2022). Behavior Algorithm - A Novel TIme-Series Clustering Approach. AJSE, 3(2). doi.org/10.15864/ajse.3202
