@@ -2,7 +2,11 @@ Pittman, J. M. (2023). Reproducing Random Forest Efficacy in Detecting Port Scan
 
 Pittman, J. M. (2023). Machine Learning and Port Scans: A Systematic Review. arXiv:2301.13581 [cs.CR]
 
-Alaee, S., Pittman, J. M. (2022). Behavior Algorithm - A Novel TIme-Series Clustering Approach. AJSE, 3(2). doi.org/10.15864/ajse.3202
+Pittman, J. (2023). A Green Scheduling Algorithm for Cloud-based Honeynets. Frontiers in Sustainability, 3(1048606). doi:https://doi.org/10.3389/frsus.2022.1048606
+
+Alaee, S., Pittman, J. M. (2022). Behavior Algorithm - A Novel Time-Series Clustering Approach. AJSE, 3(2). doi.org/10.15864/ajse.3202
+
+Pittman, J. M. (2022). Review of Stefan Lorenz Sorgner’s We Have Always Been Cyborgs. Social Epistemology Review and Reply Collective 11 (9): 38-45. https://wp.me/p1Bfg0-7aE.
 
 Pittman, J. M., Alaee, S., Crosby, C., Honey, T., & Schaefer, G. M. (2022). Towards a Model for Zero Trust Data. AJSE, 3(1). doi:https://doi.org/10.15864/ajse.3103
 
