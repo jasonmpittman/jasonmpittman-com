@@ -1,3 +1,5 @@
+Pittman, J. M., Barker, H. G., & Alaee, S. (2023). Structure or Anarchy: A Bibliometric Analysis of Keywords in Cybersecurity Education Literature. Journal of The Colloquium for Information Systems Security Education, 10(1), 1-11. doi:https://doi.org/10.53735/cisse.v10i1.170
+
 Pittman, J. M. (2023). Reproducing Random Forest Efficacy in Detecting Port Scanning. arXiv:2302.09317 [cs.CR]
 
 Pittman, J. M. (2023). Machine Learning and Port Scans: A Systematic Review. arXiv:2301.13581 [cs.CR]
