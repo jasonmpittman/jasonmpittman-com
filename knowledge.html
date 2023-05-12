@@ -58,7 +58,7 @@
   </div>
   
   <!-- navigation -->
-  <nav class="navbar navbar-expand-sm navbar-light">
+  <nav class="navbar navbar-expand-sm navbar-light sticky-top" style="background-color: lightgrey; width: 50%; margin-left: 25%">
     <div class="container">
         <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#n_bar" aria-controls="navbarNavAltMarkup" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -68,7 +68,19 @@
                 <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="about.html">About Me</a></li>
                 <li class="nav-item"><a class="nav-link" href="books.html">Books</a></li>
-                <li class="nav-item"><a class="nav-link active" href='knowledge.html'>Knowledge</a></li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link active dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="dropdownKnowledge" href='knowledge.html'>Knowledge</a>
+
+                  <div class="dropdown-menu" aria-labelledby="dropdownKnowledge">
+                    <a class="dropdown-item" href="#">Top of Page</a>
+                    <a class="dropdown-item" href="#presentations">Presentations</a>
+                    <a class="dropdown-item" href="#publications">Publications</a>
+                    <a class="dropdown-item" href="#preprints">Preprints</a>
+                    <a class="dropdown-item" href="#papers">Papers</a>
+                    <a class="dropdown-item" href="#preprints">Preprints</a>
+                    <a class="dropdown-item" href="#conferences">Conferences</a>
+                  </div>
+                </li>
                 <li class="nav-item"><a class="nav-link" href="essays.html">Essays</a></li>
                 <li class="nav-item"><a class="nav-link" href="portfolio.html">Portfolio</a></li>
             </ul>
@@ -78,27 +90,32 @@
 
   <!-- knowledge -->
   <main class="container" role=main>
-    <div class="row">
-      <div class="col-2"></div>
-      <div class="col-7">
         <br>
-
+    <div class="para-center">
         <section id="presentations" class="container">
           <section class="container">
             <h4>Presentations</h4>
             Here is a curated list of recent public presentations I have done.
             <hr>
             <p>Have you ever wondered if we are living in a machine-generated simulation? How would we know? I think cybersecurity might have some answers.</p>
-            <iframe width="480" height="315" src="https://www.youtube.com/embed/uN7a0FHzMWE" title="Cybersecurity for Simulations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <div class="ratio ratio-16x9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uN7a0FHzMWE" title="Cybersecurity for Simulations" allowfullscreen></iframe>
+            </div>
             <hr>
             <p>My thoughts on how we might apply cybersecurity to artificial intelligence, including containment of artificial general intelligence in the future.</p>
-            <iframe width="480" height="315" src="https://www.youtube.com/embed/TDhrTuiPGXU" title="Cybersecurity for AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <div class="ratio ratio-16x9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TDhrTuiPGXU" title="Cybersecurity for AI" allowfullscreen></iframe>
+            </div>
             <hr>
             <p>My BSidesRDU 2022 presentation on port knocking and the open source tool I co-created called Kommen.</p>
-            <iframe width="480" height="315" src="https://www.youtube.com/embed/VIbJFAYjJNo" title="Port Knocking with Kommen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <div class="ratio ratio-16x9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIbJFAYjJNo" title="Port Knocking with Kommen" allowfullscreen></iframe>
+            </div>
             <hr>
             <p>My BSidesRDU 2021 presentation on detecting honeypots with methodology and quantitative results.</p>
-            <iframe width="480" height="315" src="https://www.youtube.com/embed/FlM4pTiE5cs" title="Detecting Honeypots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <div class="ratio ratio-16x9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FlM4pTiE5cs" title="Detecting Honeypots" allowfullscreen></iframe>
+            </div>
             <hr>
           </section>
         </section>
@@ -129,28 +146,7 @@
             <hr>
           </section>
         </section>
-    
-      </div>
- 
 
-      <div class="col-2">
-        <div class="position-sticky" style="top: 2rem;">
-          <div class="p-4"> 
-            <h4> Categories </h4>
-            <nav class="nav flex-column">
-              <!--<li class="nav-item"><a class="text-dark" href="#">Home</a></li>-->
-              <!--<li class="nav-item"><a class="text-dark" href="#education">Education</a></li>-->
-              <!--<li class="nav-item"><a class="text-dark" href="#appointments">Appointments</a></li>-->
-              <li class="nav-item"><a class="text-dark" href="#presentations">Presentations</a></li>
-              <li class="nav-item"><a class="text-dark" href="#publications">Publications</a></li>
-              <li class="nav-item"><a class="text-dark" href="#preprints">Preprints</a></li>
-              <li class="nav-item"><a class="text-dark" href="#papers">Papers</a></li>
-              <li class="nav-item"><a class="text-dark" href="#conferences">Conferences</a></li>
-            </nav>
-          </div>
-        </div>
-      </div>
-    
     </div>
 
   </main>
