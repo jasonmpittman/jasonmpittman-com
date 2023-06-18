@@ -173,6 +173,18 @@
     <p style="margin-left: 25%; margin-right: 25%">Cybersecurity has been my passion for two decades. The challenge. The excitement. A jedi indeed craves these things.</p>
     <!-- essay 8-->
     <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/7-steps-adaptive.jpg.2023-06-25" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">7 Steps to Design and Develop an Adaptive Honeypot</h5>
+            
+        <p class="card-text">Honeypots are secret workhorses in the cybersecurity world. They help us create innovative strategies to defend our systems.</p>
+        <a href="https://medium.com/@jasonmpittman/7-steps-to-design-and-develop-an-adaptive-honeypot-39cee05e0bf2" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+    
+    <!-- essay 8-->
+    <div class="card" style="width: 50%; margin-left: 25%;">
       <img class="card-img-top" src="images/honeypot-lowdown.jpg" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title">The Lowdown on Honeypots and Honeynets</h5>
@@ -198,6 +210,18 @@
     <br>
     <h4 id="education" style="margin-left: 25%">Education</h4>
     <p style="margin-left: 25%; margin-right: 25%">Education is one of those topics I find myself leaning into hard on occasion. I have a lot to talk about as university professor and a student.</p>
+    <!-- essay 10 -->
+      <div class="card" style="width: 50%; margin-left: 25%;">
+        <img class="card-img-top" src="images/rigor.jpg.2023-06-21" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">The One Word Every Professor Gets Wrong</h5>
+              
+          <p class="card-text">Rigor is the one word professors shout from their lecterns. Rigor is also the one word every one of them gets wrong.</p>
+          <a href="https://medium.com/@jasonmpittman/the-one-word-every-professor-gets-wrong-15a04d9c36ef" class="card-link">Read More</a>
+        </div> 
+      </div>
+    <br>
+    
     <!-- essay 10 -->
       <div class="card" style="width: 50%; margin-left: 25%;">
         <img class="card-img-top" src="images/9-lib-arts.jpg" alt="Card image cap">
