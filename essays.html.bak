@@ -96,31 +96,7 @@
     <br>
     <h4 id="computer-science" style="margin-left: 25%">Computer Science</h4>
     <p style="margin-left: 25%; margin-right: 25%">Computer Science is a field I consider to be my home base. I enjoy the pure expression of the scientific method underlying the use of computation as a way to explore the universe.</p>
-     <!-- essay 12 -->
-     <div class="card" style="width: 50%; margin-left: 25%;">
-      <img class="card-img-top" src="images/green-unit-test.jpg.2023-06-18" alt="Card image cap">
-      <div class="card-body">
-        <h5 class="card-title">Top 3 Ways to Implement Green Computing Evaluations in Python Unit Testing</h5>
-            
-        <p class="card-text">Green computing is not just a theoretical concept. We can apply it as a practical solution. I say it is critical we do so today.</p>
-        <a href="https://medium.com/@jasonmpittman/top-3-ways-to-implement-green-computing-evaluations-in-python-unit-testing-f58f0eb49f37" class="card-link">Read More</a>
-      </div> 
-    </div>
-    <br>
-
-     <!-- essay 11 -->
-     <div class="card" style="width: 50%; margin-left: 25%;">
-      <img class="card-img-top" src="images/sillyrat.jpg.2023-06-17" alt="Card image cap">
-      <div class="card-body">
-        <h5 class="card-title">Optimizing Boolean Checks and Network Sockets for Green Computing</h5>
-            
-        <p class="card-text">Our Python code can slurp more energy than necessary. Of course, some energy consumption is unavoidable. Some we can change to be more green.</p>
-        <a href="https://medium.com/@jasonmpittman/optimizing-boolean-checks-and-network-sockets-for-green-computing-6fc467c1ead" class="card-link">Read More</a>
-      </div> 
-    </div>
-    <br>
-
-    <!-- essay 7 -->
+     <!-- essay 7 -->
      <div class="card" style="width: 50%; margin-left: 25%;">
       <img class="card-img-top" src="images/green-code-1.jpg" alt="Card image cap">
       <div class="card-body">
@@ -173,18 +149,6 @@
     <p style="margin-left: 25%; margin-right: 25%">Cybersecurity has been my passion for two decades. The challenge. The excitement. A jedi indeed craves these things.</p>
     <!-- essay 8-->
     <div class="card" style="width: 50%; margin-left: 25%;">
-      <img class="card-img-top" src="images/7-steps-adaptive.jpg.2023-06-25" alt="Card image cap">
-      <div class="card-body">
-        <h5 class="card-title">7 Steps to Design and Develop an Adaptive Honeypot</h5>
-            
-        <p class="card-text">Honeypots are secret workhorses in the cybersecurity world. They help us create innovative strategies to defend our systems.</p>
-        <a href="https://medium.com/@jasonmpittman/7-steps-to-design-and-develop-an-adaptive-honeypot-39cee05e0bf2" class="card-link">Read More</a>
-      </div> 
-    </div>
-    <br>
-    
-    <!-- essay 8-->
-    <div class="card" style="width: 50%; margin-left: 25%;">
       <img class="card-img-top" src="images/honeypot-lowdown.jpg" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title">The Lowdown on Honeypots and Honeynets</h5>
@@ -210,18 +174,6 @@
     <br>
     <h4 id="education" style="margin-left: 25%">Education</h4>
     <p style="margin-left: 25%; margin-right: 25%">Education is one of those topics I find myself leaning into hard on occasion. I have a lot to talk about as university professor and a student.</p>
-    <!-- essay 10 -->
-      <div class="card" style="width: 50%; margin-left: 25%;">
-        <img class="card-img-top" src="images/rigor.jpg.2023-06-21" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">The One Word Every Professor Gets Wrong</h5>
-              
-          <p class="card-text">Rigor is the one word professors shout from their lecterns. Rigor is also the one word every one of them gets wrong.</p>
-          <a href="https://medium.com/@jasonmpittman/the-one-word-every-professor-gets-wrong-15a04d9c36ef" class="card-link">Read More</a>
-        </div> 
-      </div>
-    <br>
-    
     <!-- essay 10 -->
       <div class="card" style="width: 50%; margin-left: 25%;">
         <img class="card-img-top" src="images/9-lib-arts.jpg" alt="Card image cap">
@@ -250,18 +202,6 @@
     <br>
     <h4 id="syntheticlife" style="margin-left: 25%">Synthetic Life</h4>
     <p style="margin-left: 25%; margin-right: 25%">Synthetic life, or artificial life, was my gateway into computer science. I'll never forget seeing a Game of Life glider for the first time.</p>
-    <!-- essay -->
-    <div class="card" style="width: 50%; margin-left: 25%;">
-      <img class="card-img-top" src="images/7-questions-synthlife.jpg.2023-06-18" alt="Card image cap">
-      <div class="card-body">
-        <h5 class="card-title">7 Questions to Clarify the Differences Between Synthetic Intelligence and Artificial Intelligence</h5>
-            
-        <p class="card-text">In this story I ask 7 questions about synthetic and artificial intelligence. The answers help differentiate between the two. I also give code examples.</p>
-        <a href="https://medium.com/@jasonmpittman/7-questions-to-clarify-the-differences-between-synthetic-intelligence-and-artificial-intelligence-af6bfbcbb6a7" class="card-link">Read More</a>
-      </div> 
-    </div>    
-    <br>       
-    
     <!-- essay 9-->
     <div class="card" style="width: 50%; margin-left: 25%;">
       <img class="card-img-top" src="images/synth-int-types.jpg" alt="Card image cap">

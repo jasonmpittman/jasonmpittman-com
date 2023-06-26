@@ -210,6 +210,18 @@
     <br>
     <h4 id="education" style="margin-left: 25%">Education</h4>
     <p style="margin-left: 25%; margin-right: 25%">Education is one of those topics I find myself leaning into hard on occasion. I have a lot to talk about as university professor and a student.</p>
+    <!-- essay -->
+      <div class="card" style="width: 50%; margin-left: 25%;">
+        <img class="card-img-top" src="images/10-deep-think.jpg.2023.06.28" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Ten Ways to Measure Deep Thinking in Students</h5>
+              
+          <p class="card-text">Deep thinking involves complex cognitive processes. Yet, we can measure deep thinking ten different ways. Here's how.</p>
+          <a href="https://medium.com/@jasonmpittman/ten-ways-to-measure-deep-thinking-in-students-fa76af467c6a" class="card-link">Read More</a>
+        </div> 
+      </div>
+    <br>
+
     <!-- essay 10 -->
       <div class="card" style="width: 50%; margin-left: 25%;">
         <img class="card-img-top" src="images/rigor.jpg.2023-06-21" alt="Card image cap">
@@ -250,6 +262,18 @@
     <br>
     <h4 id="syntheticlife" style="margin-left: 25%">Synthetic Life</h4>
     <p style="margin-left: 25%; margin-right: 25%">Synthetic life, or artificial life, was my gateway into computer science. I'll never forget seeing a Game of Life glider for the first time.</p>
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/4-agents.jpg.2023.06.26" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">4 Ways to Build an AI Agent</h5>
+            
+        <p class="card-text">AI agents are purpose built to solve specific problems. Let’s look at 4 examples of how to build an AI agent then.</p>
+        <a href="https://medium.com/@jasonmpittman/4-ways-to-build-an-ai-agent-5f79acf8dfd" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br> 
+    
     <!-- essay -->
     <div class="card" style="width: 50%; margin-left: 25%;">
       <img class="card-img-top" src="images/7-questions-synthlife.jpg.2023-06-18" alt="Card image cap">

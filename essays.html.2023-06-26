@@ -252,6 +252,18 @@
     <p style="margin-left: 25%; margin-right: 25%">Synthetic life, or artificial life, was my gateway into computer science. I'll never forget seeing a Game of Life glider for the first time.</p>
     <!-- essay -->
     <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/4-agents.jpg.2023.06.26" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">4 Ways to Build an AI Agent</h5>
+            
+        <p class="card-text">AI agents are purpose built to solve specific problems. Let’s look at 4 examples of how to build an AI agent then.</p>
+        <a href="https://medium.com/@jasonmpittman/4-ways-to-build-an-ai-agent-5f79acf8dfd" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br> 
+    
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
       <img class="card-img-top" src="images/7-questions-synthlife.jpg.2023-06-18" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title">7 Questions to Clarify the Differences Between Synthetic Intelligence and Artificial Intelligence</h5>

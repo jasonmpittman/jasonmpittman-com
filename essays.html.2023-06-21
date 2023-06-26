@@ -238,6 +238,18 @@
     <br>
     <h4 id="syntheticlife" style="margin-left: 25%">Synthetic Life</h4>
     <p style="margin-left: 25%; margin-right: 25%">Synthetic life, or artificial life, was my gateway into computer science. I'll never forget seeing a Game of Life glider for the first time.</p>
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/7-questions-synthlife.jpg.2023-06-18" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">7 Questions to Clarify the Differences Between Synthetic Intelligence and Artificial Intelligence</h5>
+            
+        <p class="card-text">In this story I ask 7 questions about synthetic and artificial intelligence. The answers help differentiate between the two. I also give code examples.</p>
+        <a href="https://medium.com/@jasonmpittman/7-questions-to-clarify-the-differences-between-synthetic-intelligence-and-artificial-intelligence-af6bfbcbb6a7" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br>   
+    
     <!-- essay 9-->
     <div class="card" style="width: 50%; margin-left: 25%;">
       <img class="card-img-top" src="images/synth-int-types.jpg" alt="Card image cap">
