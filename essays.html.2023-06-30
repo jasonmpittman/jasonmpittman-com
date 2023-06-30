@@ -98,7 +98,7 @@
     <p style="margin-left: 25%; margin-right: 25%">Computer Science is a field I consider to be my home base. I enjoy the pure expression of the scientific method underlying the use of computation as a way to explore the universe.</p>
     <!-- essay -->
      <div class="card" style="width: 50%; margin-left: 25%;">
-      <img class="card-img-top" src="images/8-compsci-principles.jpg.2023.06.30" alt="Card image cap">
+      <img class="card-img-top" src="images/8-compsci-principles.jpg.2023-06-30" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title">8 Core Principles of Computer Science</h5>
             
@@ -224,7 +224,7 @@
     <p style="margin-left: 25%; margin-right: 25%">Education is one of those topics I find myself leaning into hard on occasion. I have a lot to talk about as university professor and a student.</p>
     <!-- essay -->
       <div class="card" style="width: 50%; margin-left: 25%;">
-        <img class="card-img-top" src="images/10-deep-think.jpg.2023.06.28" alt="Card image cap">
+        <img class="card-img-top" src="images/10-deep-think.jpg.2023-06-28" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title">Ten Ways to Measure Deep Thinking in Students</h5>
               
@@ -276,7 +276,7 @@
     <p style="margin-left: 25%; margin-right: 25%">Synthetic life, or artificial life, was my gateway into computer science. I'll never forget seeing a Game of Life glider for the first time.</p>
     <!-- essay -->
     <div class="card" style="width: 50%; margin-left: 25%;">
-      <img class="card-img-top" src="images/4-agents.jpg.2023.06.26" alt="Card image cap">
+      <img class="card-img-top" src="images/4-agents.jpg.2023-06-26" alt="Card image cap">
       <div class="card-body">
         <h5 class="card-title">4 Ways to Build an AI Agent</h5>
             

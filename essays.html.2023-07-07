@@ -96,6 +96,18 @@
     <br>
     <h4 id="computer-science" style="margin-left: 25%">Computer Science</h4>
     <p style="margin-left: 25%; margin-right: 25%">Computer Science is a field I consider to be my home base. I enjoy the pure expression of the scientific method underlying the use of computation as a way to explore the universe.</p>
+    <!-- essay -->
+     <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/8-compsci-principles.jpg.2023-06-30" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">8 Core Principles of Computer Science</h5>
+            
+        <p class="card-text">Sometimes I wonder what computer science is and sometimes the answer is not obvious. Let's see if we can sort it out together.</p>
+        <a href="https://medium.com/@jasonmpittman/8-core-principles-of-computer-science-6d464064a5e0" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
      <!-- essay 12 -->
      <div class="card" style="width: 50%; margin-left: 25%;">
       <img class="card-img-top" src="images/green-unit-test.jpg.2023-06-18" alt="Card image cap">
@@ -171,6 +183,30 @@
     <br>
     <h4 id="cybersecurity" style="margin-left: 25%">Cybersecurity</h4>
     <p style="margin-left: 25%; margin-right: 25%">Cybersecurity has been my passion for two decades. The challenge. The excitement. A jedi indeed craves these things.</p>
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/cybernetics-cyber.jpg.2023-07-02" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Five Behaviors Your Honeypot Must Have</h5>
+            
+        <p class="card-text">A honeypot is only as good as its ability to attract and capture adversarial behavior. Here’s five behaviors you must have to be successful.</p>
+        <a href="https://medium.com/@jasonmpittman/five-behaviors-your-honeypot-must-have-a42d48ff083a" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/cybernetics-cyber.jpg.2023-07-02" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Cybernetics and Cybersecurity</h5>
+            
+        <p class="card-text">We have known the principles of cybersecurity for more than 70 years. For these seven decades cybersecurity has continually failed.</p>
+        <a href="https://medium.com/@jasonmpittman/cybernetics-and-cybersecurity-727d58ee6b30" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+    
     <!-- essay 8-->
     <div class="card" style="width: 50%; margin-left: 25%;">
       <img class="card-img-top" src="images/7-steps-adaptive.jpg.2023-06-25" alt="Card image cap">
@@ -210,6 +246,30 @@
     <br>
     <h4 id="education" style="margin-left: 25%">Education</h4>
     <p style="margin-left: 25%; margin-right: 25%">Education is one of those topics I find myself leaning into hard on occasion. I have a lot to talk about as university professor and a student.</p>
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/meta-art.jpg.2023-07-05" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Discover How Computation is the Meta Liberal Art</h5>
+            
+        <p class="card-text">In an age where STEM fields are often prioritized, computation underscores that the skills developed through the study of Liberal Arts.</p>
+        <a href="https://medium.com/@jasonmpittman/discover-how-computation-is-the-meta-liberal-art-6146079ccbdb" class="card-link">Read More</a>
+      </div> 
+    </div>
+  <br>
+
+    <!-- essay -->
+      <div class="card" style="width: 50%; margin-left: 25%;">
+        <img class="card-img-top" src="images/10-deep-think.jpg.2023-06-28" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Ten Ways to Measure Deep Thinking in Students</h5>
+              
+          <p class="card-text">Deep thinking involves complex cognitive processes. Yet, we can measure deep thinking ten different ways. Here's how.</p>
+          <a href="https://medium.com/@jasonmpittman/ten-ways-to-measure-deep-thinking-in-students-fa76af467c6a" class="card-link">Read More</a>
+        </div> 
+      </div>
+    <br>
+
     <!-- essay 10 -->
       <div class="card" style="width: 50%; margin-left: 25%;">
         <img class="card-img-top" src="images/rigor.jpg.2023-06-21" alt="Card image cap">
@@ -250,6 +310,18 @@
     <br>
     <h4 id="syntheticlife" style="margin-left: 25%">Synthetic Life</h4>
     <p style="margin-left: 25%; margin-right: 25%">Synthetic life, or artificial life, was my gateway into computer science. I'll never forget seeing a Game of Life glider for the first time.</p>
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/lowdown-agency.jpg.2023-07-03" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The Lowdown on Agency in ALife and AI</h5>
+            
+        <p class="card-text">Intelligence alone, synthetic or otherwise, does not provide the means to act. In part, such a claim summarizes a core issue with AI.</p>
+        <a href="https://medium.com/@jasonmpittman/the-lowdown-on-agency-in-alife-and-ai-c9117c7836d3" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br>    
+    
     <!-- essay -->
     <div class="card" style="width: 50%; margin-left: 25%;">
       <img class="card-img-top" src="images/4-agents.jpg.2023-06-26" alt="Card image cap">
