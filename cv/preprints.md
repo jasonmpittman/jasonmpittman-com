@@ -1,3 +1,5 @@
+Pittman, J. M., & Alaee, S. (2023). To What Extent Are Honeypots and Honeynets Autonomic Computing Systems? [cs.CR](http://arxiv.org/abs/2307.11038)
+
 Pittman, J. M. (2023). A comparative analysis of port scanning tool efficacy. arXiv:2303.11282 [cs.CR](https://arxiv.org/abs/2303.11282)
 
 Pittman, J. M. (2023). Reproducing Random Forest Efficacy in Detecting Port Scanning. arXiv:2302.09317 [cs.CR](https://arxiv.org/abs/2302.09317)
