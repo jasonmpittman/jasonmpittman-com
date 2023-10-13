@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- SEO -->
+  <meta name="description" content="Essays have long been my favorite nonfiction format. I write about a variety of topics, some familiar and some future-leaning.">
+  <meta name="keywords" content="Jason, Pittman, Jason Pittman, Jason M. Pittman, Futures, Technology Futures, AI, Artificial Intelligence, Artificial Life, Synthetic Intelligence, Synthetic Life, Essays, Technology, Cybersecurity, Computer Science, Research, Writing, Publishing, Medium">
+
+  <!-- stylesheets -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Playfair&#43;Display:700,900&amp;display=swap" rel="stylesheet">
+  <link href="css/blog.css" rel="stylesheet">
+  
+  <!-- scripts -->
+  <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Ads -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4184599959431343"
+     crossorigin="anonymous">
+  </script>
+
+  <!-- styles -->
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+
+    .modal-backdrop {
+      background-color: whitesmoke !important;
+      opacity: .95 !important;
+    }
+  </style>
+
+  <!-- site tag -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-NY9GRFECER"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-NY9GRFECER');
+  </script>
+
+  <title>Jason M. Pittman</title>
+</head>
+<body>
+
+  <!-- page header -->
+  <div class="container">
+    <header class="blog-header py-3">
+      <div class="row flex-nowrap justify-content-between align-items-center">
+        <div class="text-center">
+          <h1 class="blog-header-logo text-dark">Jason M. Pittman</h1>
+        </div>
+      </div>  
+    </header>
+  </div>
+  
+  <!-- navigation -->
+  <nav class="navbar navbar-expand-sm navbar-light sticky-top" style="background-color: lightgrey; width: 50%; margin-left: 25%">
+    <div class="container">
+        <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#n_bar" aria-controls="navbarNavAltMarkup" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse"  style="justify-content: center" id="n_bar">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="about.html">About Me</a></li>
+                <li class="nav-item"><a class="nav-link" href="books.html">Books</a></li>
+                <li class="nav-item"><a class="nav-link" href='knowledge.html'>Knowledge</a></li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link active dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="dropdownEssays" href="essays.html">Essays</a>
+                
+                  <div class="dropdown-menu" aria-labelledby="dropdownEssays">
+                    <a class="dropdown-item" href="#">Top of Page</a>
+                    <a class="dropdown-item" href="#computer-science">Computer Science</a>
+                    <a class="dropdown-item" href="#cybersecurity">Cybersecurity</a>
+                    <a class="dropdown-item" href="#education">Education</a>
+                    <a class="dropdown-item" href="#futures">Futures</a>
+                    <a class="dropdown-item" href="#syntheticlife">Synthetic Life</a>
+                  </div>
+                </li>
+                <li class="nav-item"><a class="nav-link" href="portfolio.html">Portfolio</a></li>
+            </ul>
+        </div>
+    </div>
+  </nav>
+  
+  <main class="container" role="main">    
+    <br>
+    <h4 id="computer-science" style="margin-left: 25%">Computer Science</h4>
+    <p style="margin-left: 25%; margin-right: 25%">Computer Science is a field I consider to be my home base. I enjoy the pure expression of the scientific method underlying the use of computation as a way to explore the universe.</p>
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/decode-comp.jpg.2023-09-06" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Decoding Computation Through the Essence of Data Representation</h5>
+            
+        <p class="card-text">Diving deep into the foundational ways information is encoded.</p>
+        <a href="https://medium.com/better-programming/decoding-computation-through-the-essence-of-data-representation-268c258e823" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/comp-problems.jpg.2023-08-18" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The 6 Problems Computation Solves</h5>
+            
+        <p class="card-text">Knowing which problems we can solve is the first step towards solving them.</p>
+        <a href="https://medium.com/@jasonmpittman/the-6-problems-computation-solves-de2be8fea1a4" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/alg-thinking.jpg.2023-08-07" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Algorithmic Thinking in Action</h5>
+            
+        <p class="card-text">The way to create solutions to hard problems.</p>
+        <a href="https://medium.com/@jasonmpittman/algorithmic-thinking-in-action-f0349ac39c3b" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/decomp.jpg.2023-07-28" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">3 Applications of Decomposition in Computer Science</h5>
+            
+        <p class="card-text">We use decomposition to make complex problems easier to solve.</p>
+        <a href="https://medium.com/@jasonmpittman/3-applications-of-decomposition-in-computer-science-601776512411" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/limit-abstraction.jpg.2023-07-19" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The 4 Limitations of Abstraction in Computer Science</h5>
+            
+        <p class="card-text">Abstraction is a means to represent complex systems by their essential features.</p>
+        <a href="https://medium.com/@jasonmpittman/the-4-limitations-of-abstraction-in-computer-science-b87e4344743c" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+     <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/8-compsci-principles.jpg.2023-06-30" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">8 Core Principles of Computer Science</h5>
+            
+        <p class="card-text">Sometimes I wonder what computer science is and sometimes the answer is not obvious. Let's see if we can sort it out together.</p>
+        <a href="https://medium.com/@jasonmpittman/8-core-principles-of-computer-science-6d464064a5e0" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+     <!-- essay 12 -->
+     <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/green-unit-test.jpg.2023-06-18" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Top 3 Ways to Implement Green Computing Evaluations in Python Unit Testing</h5>
+            
+        <p class="card-text">Green computing is not just a theoretical concept. We can apply it as a practical solution. I say it is critical we do so today.</p>
+        <a href="https://medium.com/@jasonmpittman/top-3-ways-to-implement-green-computing-evaluations-in-python-unit-testing-f58f0eb49f37" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+     <!-- essay 11 -->
+     <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/sillyrat.jpg.2023-06-17" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Optimizing Boolean Checks and Network Sockets for Green Computing</h5>
+            
+        <p class="card-text">Our Python code can slurp more energy than necessary. Of course, some energy consumption is unavoidable. Some we can change to be more green.</p>
+        <a href="https://medium.com/@jasonmpittman/optimizing-boolean-checks-and-network-sockets-for-green-computing-6fc467c1ead" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay 7 -->
+     <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/green-code-1.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Three Examples to Increase Sustainability in FatRat</h5>
+            
+        <p class="card-text">Analyzing public Python code to learn green computing habits is fun and informative. Today, we examine the FatRat project in GitHub.</p>
+        <a href="https://medium.com/@jasonmpittman/three-examples-to-increase-sustainability-in-fatrat-46516b1a4922" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br> 
+    
+    <!-- essay 3 -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/plant-life.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Why We Should Be Studying Artificial Life and not Artificial Intelligence</h5>
+            
+        <p class="card-text">Artificial life, often abbreviated as A-Life, is an interdisciplinary scientific field focused on studying life and life-like processes.</p>
+        <a href="https://medium.com/@jasonmpittman/why-we-should-be-studying-artificial-life-and-not-artificial-intelligence-9cb83c6335ff" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>    
+    
+    <!-- essay 2 -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/power-meter.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Unseen Power Drain: The Shocking Energy Secrets of Your Programming Language</h5>
+            
+        <p class="card-text">Have you ever wondered how much energy your computer drains when you’re programming? Well, the answer might surprise you.</p>
+        <a href="https://medium.com/@jasonmpittman/unseen-power-drain-the-shocking-energy-secrets-of-your-programming-language-b35cf0dd0b78" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+    <!-- essay 1 -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/glasses.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">What is Computer Science?</h5>
+            
+        <p class="card-text">Computer science is a hot field within the broader STEM domain. To many, computer science is the degree we pursue when our parents tell us…</p>
+        <a href="https://medium.com/@jasonmpittman/what-is-computer-science-6384a020ef5c" class="card-link">Read More</a>
+      </div>  
+    </div>
+    <br>
+
+    <!-- Cybersecurity -->
+    <br>
+    <h4 id="cybersecurity" style="margin-left: 25%">Cybersecurity</h4>
+    <p style="margin-left: 25%; margin-right: 25%">Cybersecurity has been my passion for two decades. The challenge. The excitement. A jedi indeed craves these things.</p>
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/adapt-learn-cyber.jpg.2023-09-04" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Adapting to Survive: Cybernetics Meets Bacterial Evolution</h5>
+            
+        <p class="card-text">Illuminate the Principles of Learning and Adaptation in Cybersecurity</p>
+        <a href="https://medium.com/@jasonmpittman/adapting-to-survive-cybernetics-meets-bacterial-evolution-b5e074797105" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/cyber-comm.jpg.2023-08-28" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Decoding Nature’s Communication Blueprint in Cybernetics</h5>
+            
+        <p class="card-text">Drawing Parallels Between Bee Communication and the Principles of Information in Cybersecurity</p>
+        <a href="https://medium.com/@jasonmpittman/decoding-natures-communication-blueprint-in-cybernetics-16c096325d2d" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/regulation-cyber.jpg.2023-08-09" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The Secrets of Cybernetic Regulation and Control</h5>
+            
+        <p class="card-text">Here’s how cybersecurity can regulate and control itself</p>
+        <a href="https://medium.com/@jasonmpittman/the-secrets-of-cybernetic-regulation-and-control-242cdd551b0" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/honey-giveaways.jpg.2023-07-24" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Three Dead Giveaways a System is a Honeypot</h5>
+            
+        <p class="card-text">There are often signs that can give away that a system or service is a honeypot.</p>
+        <a href="https://medium.com/@jasonmpittman/three-dead-giveaways-a-system-is-a-honeypot-c74a813907c8" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/grip-loops-cyber.jpg.2023-07-12" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">How to Get a Grip on Feedback Loops in Cyber</h5>
+            
+        <p class="card-text">Examples of a defense-oriented feedback loop in a biological system come from botanical life. Specifically, a plant's response to insects.</p>
+        <a href="https://medium.com/@jasonmpittman/how-to-get-a-grip-on-feedback-loops-in-cyber-d828b9e97a11" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/honeypot-behaviors.jpg.2023-07-07" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Five Behaviors Your Honeypot Must Have</h5>
+            
+        <p class="card-text">A honeypot is only as good as its ability to attract and capture adversarial behavior. Here’s five behaviors you must have to be successful.</p>
+        <a href="https://medium.com/@jasonmpittman/five-behaviors-your-honeypot-must-have-a42d48ff083a" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/cybernetics-cyber.jpg.2023-07-02" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Cybernetics and Cybersecurity</h5>
+            
+        <p class="card-text">We have known the principles of cybersecurity for more than 70 years. For these seven decades cybersecurity has continually failed.</p>
+        <a href="https://medium.com/@jasonmpittman/cybernetics-and-cybersecurity-727d58ee6b30" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+    
+    <!-- essay 8-->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/7-steps-adaptive.jpg.2023-06-25" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">7 Steps to Design and Develop an Adaptive Honeypot</h5>
+            
+        <p class="card-text">Honeypots are secret workhorses in the cybersecurity world. They help us create innovative strategies to defend our systems.</p>
+        <a href="https://medium.com/@jasonmpittman/7-steps-to-design-and-develop-an-adaptive-honeypot-39cee05e0bf2" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+    
+    <!-- essay 8-->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/honeypot-lowdown.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The Lowdown on Honeypots and Honeynets</h5>
+            
+        <p class="card-text">You might be curious about the purpose of honeypots and honeynets. These are mysterious tools of deception in the world of technology.</p>
+        <a href="https://medium.com/@jasonmpittman/the-lowdown-on-honeypots-and-honeynets-5c8cb4893172" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+    <!-- essay 4-->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/plant-cyber.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The Fourth Pillar of Cybersecurity: Unveiling the Essential Role of Sustainability in Cyber Defense Strategies</h5>
+            
+        <p class="card-text">Cybersecurity is a term that’s usually associated with data protection and internet safety. I say cyber is overdue to add sustainability.</p>
+        <a href="https://medium.com/@jasonmpittman/why-we-should-be-studying-artificial-life-and-not-artificial-intelligence-9cb83c6335ff" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- Education -->
+    <br>
+    <h4 id="education" style="margin-left: 25%">Education</h4>
+    <p style="margin-left: 25%; margin-right: 25%">Education is one of those topics I find myself leaning into hard on occasion. I have a lot to talk about as university professor and a student.</p>
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/cyber-ed-p3.jpg.2023-09-11" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The Secrets of Cybersecurity Education Research, Part 3</h5>
+            
+        <p class="card-text">A search for the missing 75 percent.</p>
+        <a href="https://medium.com/@jasonmpittman/the-secrets-of-cybersecurity-education-research-part-3-edd4a1c0016d" class="card-link">Read More</a>
+      </div> 
+    </div>
+  <br>    
+    
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/cyber-ed-p2.jpg.2023-09-01" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The Secrets of Cybersecurity Education Research, Part 2</h5>
+            
+        <p class="card-text">Wherein we find if researchers are building on the shoulders of giants.</p>
+        <a href="https://medium.com/@jasonmpittman/the-secrets-of-cybersecurity-education-research-part-2-fe96b31893cc" class="card-link">Read More</a>
+      </div> 
+    </div>
+  <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/cyber-ed-1.jpg.2023-08-21" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The Secrets of Cybersecurity Education Research, Part 1</h5>
+            
+        <p class="card-text">What academia doesn’t want you to know about how it makes its sausage.</p>
+        <a href="https://medium.com/@jasonmpittman/the-secrets-of-cybersecurity-education-research-part-1-aff031382d9b" class="card-link">Read More</a>
+      </div> 
+    </div>
+  <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/meta-art.jpg.2023-07-05" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Discover How Computation is the Meta Liberal Art</h5>
+            
+        <p class="card-text">In an age where STEM fields are often prioritized, computation underscores that the skills developed through the study of Liberal Arts.</p>
+        <a href="https://medium.com/@jasonmpittman/discover-how-computation-is-the-meta-liberal-art-6146079ccbdb" class="card-link">Read More</a>
+      </div> 
+    </div>
+  <br>
+
+    <!-- essay -->
+      <div class="card" style="width: 50%; margin-left: 25%;">
+        <img class="card-img-top" src="images/10-deep-think.jpg.2023-06-28" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Ten Ways to Measure Deep Thinking in Students</h5>
+              
+          <p class="card-text">Deep thinking involves complex cognitive processes. Yet, we can measure deep thinking ten different ways. Here's how.</p>
+          <a href="https://medium.com/@jasonmpittman/ten-ways-to-measure-deep-thinking-in-students-fa76af467c6a" class="card-link">Read More</a>
+        </div> 
+      </div>
+    <br>
+
+    <!-- essay 10 -->
+      <div class="card" style="width: 50%; margin-left: 25%;">
+        <img class="card-img-top" src="images/rigor.jpg.2023-06-21" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">The One Word Every Professor Gets Wrong</h5>
+              
+          <p class="card-text">Rigor is the one word professors shout from their lecterns. Rigor is also the one word every one of them gets wrong.</p>
+          <a href="https://medium.com/@jasonmpittman/the-one-word-every-professor-gets-wrong-15a04d9c36ef" class="card-link">Read More</a>
+        </div> 
+      </div>
+    <br>
+    
+    <!-- essay 10 -->
+      <div class="card" style="width: 50%; margin-left: 25%;">
+        <img class="card-img-top" src="images/9-lib-arts.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">9 Examples of the Liberal Arts in Education</h5>
+              
+          <p class="card-text">The role of the liberal arts in education is as relevant today as it was in throughout history. Here’s 9 examples.</p>
+          <a href="https://medium.com/@jasonmpittman/9-examples-of-the-role-of-the-liberal-arts-in-education-ad4a007af907" class="card-link">Read More</a>
+        </div> 
+      </div>
+    <br>
+    
+    <!-- essay 6 -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/ed-crit-thinking.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Higher Education Is Killing Critical Thinking</h5>
+            
+        <p class="card-text">Have you ever wondered if going to college worth it? After all, college is all about getting a job and making money.</p>
+        <a href="https://medium.com/@jasonmpittman/higher-education-is-killing-critical-thinking-f30773172b96" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- Futures -->
+    <br>
+    <h4 id="futures" style="margin-left: 25%">Futures</h4>
+    <p style="margin-left: 25%; margin-right: 25%">Futures is one of my favorite hobbies. The combination of the past and present creates pockets of decision within uncertain futures. This is about probability, not prediction.</p>
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/ai-hype.jpg.2023-09-16" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">A Technology Futures Analysis of the AI Hype</h5>
+            
+        <p class="card-text">Analyzing and Responding to ‘How the AI Revolution Will Reshape the World’</p>
+        <a href="https://medium.com/predict/a-technology-futures-analysis-of-the-ai-hype-f336789a5890" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/ambient-heat.jpg.2023-08-30" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">How Consumer Electronics Will Transform by 2033</h5>
+            
+        <p class="card-text">The Revolutionary Shift in How We’ll Create and Consume Gadgets in the Next Decade.</p>
+        <a href="https://medium.com/predict/how-consumer-electronics-will-transform-by-2033-2889fcb3c073" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/ambient-heat.jpg.2023-08-30" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The Future of Harnessing Ambient Heat</h5>
+            
+        <p class="card-text">Discover how graphene-based devices are reshaping the future of energy harvesting.</p>
+        <a href="https://medium.com/predict/the-future-of-harnessing-ambient-heat-841d1459853c" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/quantum-ml.jpg.2023-08-22" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Unlock the Future Through Overparameterization</h5>
+            
+        <p class="card-text">How Performance increases unlock another dimension for data</p>
+        <a href="https://medium.com/predict/unlock-the-future-through-overparameterization-ec6010319a84" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/hidden-compute.jpg.2023-08-14" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The Hidden Future of Biological Computing</h5>
+            
+        <p class="card-text">A Technology Futures take on turning cells into computers</p>
+        <a href="https://medium.com/@jasonmpittman/the-hidden-future-of-biological-computing-103bf660b274" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/methods-futures.jpg.2023-08-07" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The 2 Methodologies of Technology Futures</h5>
+            
+        <p class="card-text">Wherein the goal is to infer what is possible in fields of uncertainty.</p>
+        <a href="https://medium.com/predict/the-2-methodologies-of-technology-futures-e4435b1eed55" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/core-predict.jpg.2023-07-19" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The 4 Core Components of Technology Futures</h5>
+            
+        <p class="card-text">The drivers of decision-making and strategic foresight.</p>
+        <a href="https://medium.com/predict/the-4-core-components-of-technology-futures-b2fb82ed50e8" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/5-steps-futurist.jpg.2023-07-14" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">How to Be a Technology Futurist in 5 Steps</h5>
+            
+        <p class="card-text">Technology Futures is an inferential process we can use to reduce uncertainty about the future and reveal potential decision points.</p>
+        <a href="https://medium.com/predict/how-to-be-a-technology-futurist-in-5-steps-10548da5ffe4" class="card-link">Read More</a>
+      </div> 
+    </div>
+    <br>
+
+    <!-- Synthetic Life -->
+    <br>
+    <h4 id="syntheticlife" style="margin-left: 25%">Synthetic Life</h4>
+    <p style="margin-left: 25%; margin-right: 25%">Synthetic life, or artificial life, was my gateway into computer science. I'll never forget seeing a Game of Life glider for the first time.</p>
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/syn-comms.jpg.2023-08-16" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">How I Would Communicate with Synthetic Intelligence</h5>
+            
+        <p class="card-text">A design and implementation of a safe communication protocol.</p>
+        <a href="https://medium.com/@jasonmpittman/how-i-would-communicate-with-synthetic-intelligence-f0b58e3bd111" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/adver-search.jpg.2023-08-11" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">When Search Becomes Adversarial</h5>
+            
+        <p class="card-text">Letting agents compete let's us solve more complex problems more efficiently.</p>
+        <a href="https://medium.com/@jasonmpittman/when-search-becomes-adversarial-22455bede44a" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br>
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/intro-alife.jpg.2023-08-04" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The Way I Got Into Artificial Life</h5>
+            
+        <p class="card-text">A first act in how I got interested in the field of artificial life.</p>
+        <a href="https://medium.com/@jasonmpittman/the-way-i-got-into-artificial-life-e147af1fe771" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br>   
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/search-agents.jpg.2023-08-02" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">A Deep Exploration of Search-based Agents</h5>
+            
+        <p class="card-text">Search-based agents are great at sniffing out optimal solutions to complex problems.</p>
+        <a href="https://medium.com/@jasonmpittman/a-deep-exploration-of-search-based-agents-b7f0836419d" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br>     
+    
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/utility-agent.jpg.2023-07-26" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The Secret World of Utility-based Agents</h5>
+            
+        <p class="card-text">Utility-based agents are flexible problem solvers that optimize decision-making.</p>
+        <a href="https://medium.com/@jasonmpittman/the-secret-world-of-utility-based-agents-fa2da2fba839" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br> 
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/turing-test.jpg.2023-07-21" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Will the Turing Test Detect Synthetic Intelligence?</h5>
+            
+        <p class="card-text">Understanding the potential differences in the search for intelligence.</p>
+        <a href="https://medium.com/@jasonmpittman/will-the-turing-test-detect-synthetic-intelligence-4350cb71b459" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br> 
+
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/grip-rules-agents.jpg.2023-07-10" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">How to Get a Grip on Rule-based Agents</h5>
+            
+        <p class="card-text">The 4 types of rule-based agents are similar but have differing advantages relative to certain problems. Let's find out what these are.</p>
+        <a href="https://medium.com/@jasonmpittman/how-to-get-a-grip-on-rule-based-agents-c0d992bee6c0" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br> 
+    
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/lowdown-agency.jpg.2023-07-03" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">The Lowdown on Agency in ALife and AI</h5>
+            
+        <p class="card-text">Intelligence alone, synthetic or otherwise, does not provide the means to act. In part, such a claim summarizes a core issue with AI.</p>
+        <a href="https://medium.com/@jasonmpittman/the-lowdown-on-agency-in-alife-and-ai-c9117c7836d3" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br>    
+    
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/4-agents.jpg.2023-06-26" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">4 Ways to Build an AI Agent</h5>
+            
+        <p class="card-text">AI agents are purpose built to solve specific problems. Let’s look at 4 examples of how to build an AI agent then.</p>
+        <a href="https://medium.com/@jasonmpittman/4-ways-to-build-an-ai-agent-5f79acf8dfd" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br> 
+    
+    <!-- essay -->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/7-questions-synthlife.jpg.2023-06-18" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">7 Questions to Clarify the Differences Between Synthetic Intelligence and Artificial Intelligence</h5>
+            
+        <p class="card-text">In this story I ask 7 questions about synthetic and artificial intelligence. The answers help differentiate between the two. I also give code examples.</p>
+        <a href="https://medium.com/@jasonmpittman/7-questions-to-clarify-the-differences-between-synthetic-intelligence-and-artificial-intelligence-af6bfbcbb6a7" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br>       
+    
+    <!-- essay 9-->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/synth-int-types.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">3 Questions to Understand Synthetic Intelligence</h5>
+            
+        <p class="card-text">We need to differentiate between synthetic and artificial intelligence. Here’s three questions we can ask to guide our effort.</p>
+        <a href="https://medium.com/@jasonmpittman/3-questions-to-understand-synthetic-intelligence-84813808533" class="card-link">Read More</a>
+      </div> 
+    </div>    
+    <br>
+    
+    <!-- essay 5-->
+    <div class="card" style="width: 50%; margin-left: 25%;">
+      <img class="card-img-top" src="images/synth-life-robot.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">What is Synthetic Life?</h5>
+            
+        <p class="card-text">The popularity of artificial intelligence has grown to epic proportions. But we’ve been sold on a lie. AI isn’t intelligence, is it?</p>
+        <a href="https://medium.com/@jasonmpittman/what-is-synthetic-intelligence-ac2c74518315" class="card-link">Read More</a>
+      </div> 
+    </div>
+
+  </main>
+
+  <!-- footer -->
+  <footer class="container text-center" style="position: relative;">
+    <div class="container p-4 pb-0">
+      <section class="mb-4">
+        <a class="fa fa-twitter mr-5" style="font-size:36px; color: black" href="//www.twitter.com/therealjpittman"></a>&nbsp&nbsp&nbsp
+        <a class="fa fa-github mr-5" style="font-size:36px; color: black" href="//www.github.com/jasonmpittman"></a>&nbsp&nbsp&nbsp
+        <a class="fa fa-youtube mr-5" style="font-size:36px; color: black" href="//www.youtube.com/channel/UCe4Ul922qy0eao0EZ2_kOJg"></a>
+      </section>
+      <p> Copyright &copy 2021 Jason M. Pittman</p>
+    </div>
+  </footer>
+
+</body>
+</html>
