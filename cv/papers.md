@@ -48,7 +48,7 @@ Pittman, J. M. (2014). Factors of success- The potential correlation between CLI
 
 Pittman J. M., & Barker, H. G. (2014). Are cybersecurity laboratory exercises constructivist in use? In D. Shoemaker & S. Wetzel (Eds.), Proceeding of the 18th Colloquium for Information Systems Security Education.
 
-Pittman, J. M. (2013). Reducing virtualization host system utilization in cybersecurity network probing laboratory scenarios using honeypots. The Online Journal of STEM Inquiry, 1(1). Retrieved from: http://stemjournalonline.org/wp-content/uploads/2013/06/Reducing-Virutalization-Host-System- Utilization-in-Cybersecurity-Laboratory-Scenarios.pdf
+Pittman, J. M. (2013). Reducing virtualization host system utilization in cybersecurity network probing laboratory scenarios using honeypots. The Online Journal of STEM Inquiry, 1(1). Retrieved from: http://stemjournalonline.org/wp-content/uploads/2013/06/Reducing-Virutalization-Host-System-Utilization-in-Cybersecurity-Laboratory-Scenarios.pdf
  
 Pittman, J. M. (2013). Understanding system utilization as a limitation associated with cybersecurity laboratories – A literature analysis. Journal of Information Technology Education: Research, 12, 363-378. Retrieved from http://www.jite.org/documents/Vol12/JITEv12ResearchP363-378Pittman0440.pdf
 

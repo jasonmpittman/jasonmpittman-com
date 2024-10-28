@@ -1,3 +1,5 @@
+Pittman, J. & Alaee, S. (2024). Quantifying Autonomy in Intelligent Systems: A Novel Framework for Assessing Average Level of Autonomy Based on System Behavior [AIAA DEFENSE Forum 2024](https://www.aiaa.org/defense)
+
 Pittman, J., Barker, H., & Alaee, S. (2022). Structure or Anarchy: A Bibliometric Analysis of Keywords in Cybersecurity Education Literature. [26th CISSE, November 2022](https://cisse.info/e/26th/academic-papers)
 
 Pittman, J. (2022). Knock Knock, Who is There? A New Type of Port Knocking. BSidesRDU 2022.

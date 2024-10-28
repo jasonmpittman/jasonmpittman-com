@@ -1,6 +1,10 @@
+Pittman, J. M., Eddy, L., & Wiseman, K. (2024). Responsible Reasoning - A Systematic Review. [article](doi:10.20944/preprints202410.0985.v1)
+
+Pittman, J. M. (2024). A Measure for Level of Autonomy Based on Observable System Behavior. [cs.CY](https://arxiv.org/pdf/2407.14975)
+
 Pittman, J. M., & Alaee, S. (2023). To What Extent Are Honeypots and Honeynets Autonomic Computing Systems? [cs.CR](http://arxiv.org/abs/2307.11038)
 
-Pittman, J. M. (2023). A comparative analysis of port scanning tool efficacy. arXiv:2303.11282 [cs.CR](https://arxiv.org/abs/2303.11282)
+Pittman, J. M. (2023). A Comparative Analysis of Port Scanning Tool Efficacy. arXiv:2303.11282 [cs.CR](https://arxiv.org/abs/2303.11282)
 
 Pittman, J. M. (2023). Reproducing Random Forest Efficacy in Detecting Port Scanning. arXiv:2302.09317 [cs.CR](https://arxiv.org/abs/2302.09317)
 
