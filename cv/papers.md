@@ -1,4 +1,6 @@
-Pittman, J.M., Cincotta, K., & Saul, Rebecca. (2023). Breaking Down Break-It-Fix-It: An Automated Software Repair Replication. AJSE, 4(2). doi:https://doi.org/10.15864/ajse.4101
+Pittman, J. M. (2024). Effective Continuous Quantitative Measures for End-to-End AI Guardrails. Proceedings of the 4th International Conference on AI Research, ICAIR 2024, 4(1). doi:https://doi.org/10.34190/icair.4.1.3067
+
+Pittman, J. M., Cincotta, K., & Saul, Rebecca. (2023). Breaking Down Break-It-Fix-It: An Automated Software Repair Replication. AJSE, 4(2). doi:https://doi.org/10.15864/ajse.4101
 
 Pittman, J. M., Barker, H. G., & Alaee, S. (2023). Structure or Anarchy: A Bibliometric Analysis of Keywords in Cybersecurity Education Literature. Journal of The Colloquium for Information Systems Security Education, 10(1), 1-11. doi:https://doi.org/10.53735/cisse.v10i1.170
 
