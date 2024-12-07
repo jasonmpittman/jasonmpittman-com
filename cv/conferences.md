@@ -1,3 +1,5 @@
+Pittman, J. (2024). Latenrgy: Model Agnostic Latency and Energy Consumption Prediction for Binary Classifiers. [International Conference on AI Research](https://www.academic-conferences.org/conferences/icair/). Lisbon, Portugal
+
 Pittman, J. & Alaee, S. (2024). Quantifying Autonomy in Intelligent Systems: A Novel Framework for Assessing Average Level of Autonomy Based on System Behavior [AIAA DEFENSE Forum 2024](https://www.aiaa.org/defense)
 
 Pittman, J., Barker, H., & Alaee, S. (2022). Structure or Anarchy: A Bibliometric Analysis of Keywords in Cybersecurity Education Literature. [26th CISSE, November 2022](https://cisse.info/e/26th/academic-papers)
