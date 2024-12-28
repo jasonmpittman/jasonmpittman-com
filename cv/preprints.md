@@ -1,4 +1,4 @@
-Pittman, J. M., Eddy, L., & Wiseman, K. (2024). Responsible Reasoning - A Systematic Review. [article](doi:10.20944/preprints202410.0985.v1)
+Pittman, J. M., Eddy, L., & Wiseman, K. (2024). Responsible Reasoning - A Systematic Review. [preprints.org](https://www.preprints.org/manuscript/202410.0985/v1/download)
 
 Pittman, J. M. (2024). A Measure for Level of Autonomy Based on Observable System Behavior. [cs.CY](https://arxiv.org/pdf/2407.14975)
 
