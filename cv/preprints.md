@@ -1,3 +1,7 @@
+Pittman, J. M. (2025). Truth in Text: A Meta-Analysis of ML-Based Cyber Information Influence Detection Approaches. [cs.CR](https://doi.org/10.48550/arXiv.2503.22686)
+
+Pittman, J. M. (2024). Latenrgy: Model Agnostic Latency and Energy Consumption Prediction for Binary Classifiers. [cs.LG](https://doi.org/10.48550/arXiv.2412.19241)
+
 Pittman, J. M., Eddy, L., & Wiseman, K. (2024). Responsible Reasoning - A Systematic Review. [preprints.org](https://www.preprints.org/manuscript/202410.0985/v1/download)
 
 Pittman, J. M. (2024). A Measure for Level of Autonomy Based on Observable System Behavior. [cs.CY](https://arxiv.org/pdf/2407.14975)
