@@ -1,4 +1,4 @@
-Pittman, J. M. (2025). Toward a responsible and ethical authorization to operate: A case study in AI consulting. Journal of Responsible Technology, (23). doi:https://doi.org/10.1016/j.jrt.2025.100130
+Pittman, J. M., Schaefer, G. (2025). Toward a responsible and ethical authorization to operate: A case study in AI consulting. Journal of Responsible Technology, (23). doi:https://doi.org/10.1016/j.jrt.2025.100130
 
 Pittman, J. M. (2024). Effective Continuous Quantitative Measures for End-to-End AI Guardrails. Proceedings of the 4th International Conference on AI Research, ICAIR 2024, 4(1). doi:https://doi.org/10.34190/icair.4.1.3067
 
