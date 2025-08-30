@@ -1,3 +1,5 @@
+Bronk, C., Pittman, J. M. & Semmler, C. (2025). A Praxis of Influence: Framing the Observation and Measurement of Information Power. [cs.CY](https://doi.org/10.48550/arXiv.2508.18482)
+
 Pittman, J. M. (2025). Truth in Text: A Meta-Analysis of ML-Based Cyber Information Influence Detection Approaches. [cs.CR](https://doi.org/10.48550/arXiv.2503.22686)
 
 Pittman, J. M. (2024). Latenrgy: Model Agnostic Latency and Energy Consumption Prediction for Binary Classifiers. [cs.LG](https://doi.org/10.48550/arXiv.2412.19241)
