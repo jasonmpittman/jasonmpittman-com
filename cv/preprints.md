@@ -1,3 +1,5 @@
+Pittman, J. M., Phillips Jr., A., Medina-Santos, Y., & Stark, B. C. (2025). Towards a Method for Synthetic Generation of Persons with Aphasia Transcripts. [cs.CL](https://doi.org/10.48550/arXiv.2510.24817)
+
 Bronk, C., Pittman, J. M. & Semmler, C. (2025). A Praxis of Influence: Framing the Observation and Measurement of Information Power. [cs.CY](https://doi.org/10.48550/arXiv.2508.18482)
 
 Pittman, J. M. (2025). Truth in Text: A Meta-Analysis of ML-Based Cyber Information Influence Detection Approaches. [cs.CR](https://doi.org/10.48550/arXiv.2503.22686)
